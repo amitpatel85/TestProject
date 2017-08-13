@@ -10,7 +10,6 @@ namespace FirstConsolApp
             Console.Read();
             Console.Write("Amit Done Repository And Project Upload to GitHub");
             Console.Read();
-            Console.Write("");
         }
     }
 }
